@@ -1,4 +1,4 @@
-# 📊 Análisis de ventas - Superstore Dataset
+#📊 Superstore Sales Analysis
 
 **Autor:** Morena Figueroa  
 **Herramientas utilizadas:** Excel  
@@ -6,13 +6,13 @@
 
 ---
 
-## 🎯 Objetivo del análisis
+##🎯 Objetivo del análisis
 
 Analizar las ventas, ganancias y comportamiento de clientes en una tienda minorista ficticia para identificar patrones, subcategorías no rentables y oportunidades de mejora.
 
 ---
 
-## 🧪 Proceso de análisis
+##🧪 Proceso de análisis
 
 - Limpieza y revisión del dataset (fechas, valores nulos, formatos).
 - Cálculo de métricas clave usando fórmulas (ventas totales, ganancias, top categorías).
@@ -22,7 +22,7 @@ Analizar las ventas, ganancias y comportamiento de clientes en una tienda minori
 
 ---
 
-## 📈 Visualizaciones
+##📈 Visualizaciones
 
 ### Ventas por Categoría
 ![Ventas por Categoría](./screenshots/ventas_categoria.png)
@@ -38,7 +38,7 @@ Analizar las ventas, ganancias y comportamiento de clientes en una tienda minori
 ![Ventas mensuales](./screenshots/ventas_mensuales.png)
 
 
-## 🧠 Insights clave
+##🧠 Insights clave
 
 - 💰 **Tecnología representa el 35% de las ventas totales**, siendo la categoría más rentable.
 - 🪑 **Las Tables (mesas) generan pérdidas importantes**, lo que sugiere revisar precios o logística.
@@ -48,20 +48,20 @@ Analizar las ventas, ganancias y comportamiento de clientes en una tienda minori
 
 ---
 
-## 📁 Archivos del proyecto
+##📁 Archivos del proyecto
 
 - `superstore_sales_analysis.xlsx`: archivo con las fórmulas, análisis y gráficos.
 - `/screenshots/`: carpeta con capturas de los dashboards y gráficos.
 
 ---
 
-## 🔗 Dataset original
+##🔗 Dataset original
 
 [Superstore Dataset en Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ---
 
-## 💬 Contacto
+##💬 Contacto
 
 📧 morenafigueroa.a@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/weneedmoretranslations/)
